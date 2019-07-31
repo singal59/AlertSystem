@@ -31,6 +31,6 @@ java -jar AlertSystem-1.0-jar-with-dependencies.jar
 
 ## Class Diagram
 
-![Class Diagram](./resources/classDiagram.png "Class Diagram")
+![Class Diagram](https://github.com/singal59/AlertSystem/blob/master/resources/classDiagram.png "Class Diagram")
 
 # AlertSystem
