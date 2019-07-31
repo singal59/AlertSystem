@@ -18,17 +18,17 @@ public class Spo2 {
 		result = null;
 	}
 	
-	public double getReading() {
-		return this.reading;
-	}
+	// public double getReading() {
+	// 	return this.reading;
+	// }
 
-	public double getLowerNormalVal() {
-		return this.lowerAcceptableReading;
-	}
+	// public double getLowerNormalVal() {
+	// 	return this.lowerAcceptableReading;
+	// }
 
-	public double getUpperNormalVal() {
-		return this.upperAcceptableReading;
-	}
+	// public double getUpperNormalVal() {
+	// 	return this.upperAcceptableReading;
+	// }
 	
 	public int Spo2Checker() {
 		if(this.reading > upperHealthyReading)

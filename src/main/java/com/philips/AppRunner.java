@@ -54,7 +54,7 @@ public class AppRunner {
 		JSONObject data = new JSONObject();
 		data.put("patient id", getRandomName());		
 		data.put("SPO2", ThreadLocalRandom.current().nextDouble(minSpo2, maxSpo2));
-		data.put("temperature", ThreadLocalRandom.current().nextDouble(minTemp, maxTemp) );
+		data.put("temperature", ThreadLocalRandom.current().nextDouble(minTemp, maxTemp));
 		data.put("pulse rate", ThreadLocalRandom.current().nextInt(minPulse, maxPulse));
 		return data.toJSONString();
 	}

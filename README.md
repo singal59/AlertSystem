@@ -20,6 +20,7 @@ Run the batch file in the command line and it will compile the sources and execu
 ```  
 Once the batch file has sucessfully executed, you should be able to see a `"build successful"` message.
 
+
 ## Execution
 Once the batch file has been run, a binary will be put in the target folder and it will have the name "AlertSystem-1.0-jar-with-dependencies.jar".
 In order to run the application, open the commandline and copy paste the below command.  
