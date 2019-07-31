@@ -1,0 +1,9 @@
+{ "patient id": "TRJIW432", "SPO2": 96, "pulse rate": 75, "temPerature": 98.6 }
+{ "patient id": "TRJI432", "SPO2": 0, "pulse rate": 0, "temperature": 98.6 }
+{ "patient id": "TRJIW432", "SPO2": 6, "pulse rate": 75, "temperature": 98.6 }
+{ "patient id": "TRJIW432", "SPO2": 96, "pulse rate": 29, "temperature": 98.6 }
+{ "patient id": "TRJIW432", "SPO2": 96, "pulse rate": 75, "temperature": 90.6 }
+{ "patient id": "TRJIW432", "SPO2": 96, "pulse rate": 75, "temperature": . }
+{ "patient id": "TRJIW432", "SPO2": 96, "pulse rate": 75, "temperature": @ }
+{ "patient id": "TRJIW432", "SPO2": 96, "pulse rate": -, "temperature": 98.6 }
+{ "patient id": "TRJIW432", "SPO2": 96, "puLse rate": -, "Temperature": 98.6 }

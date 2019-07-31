@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AppRunner",
+            "request": "launch",
+            "mainClass": "com.philips.AppRunner",
+            "projectName": "AlertSystem"
+        }
+    ]
+}
