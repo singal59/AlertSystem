@@ -6,7 +6,6 @@ import java.util.List;
 
 public class Temperature {
 	private double reading;
-	
 	/* ranges as per medical standard */
 	private final double minFeverValue=93;
 	private final double lowerNormalVal = 97;
